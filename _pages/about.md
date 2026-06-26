@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Junjie Yu’s Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Junjie Yu’s Homepage
 
 Welcome! I am a **Ph.D. student in Mathematics** at the **Southern University of Science and Technology (SUSTech)**, Shenzhen, China. I am supervised by **Prof. Yi Guo** and **Associate Prof. Quanying Liu**.
 
