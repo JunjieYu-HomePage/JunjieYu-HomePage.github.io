@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Junjie Yu's Homework"
 title_separator          : "-"
-name                     : &name "Junjie Yu"
-description              : &description "PhD Student in Mathematics"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : "Junjie Yu"
+description              : "PhD Student in Mathematics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://JunjieYu-HomePage.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Junjie Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in Mathematics"
   location         : "Shenzhen, China"
   employer         : "Southern University of Science and Technology"
   uri              : # URL
