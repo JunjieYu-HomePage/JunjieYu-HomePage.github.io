@@ -96,7 +96,7 @@ img {
   color: var(--text);
   font-size: 1.35rem;
   font-weight: 800;
-  letter-spacing: -0.08em;
+  letter-spacing: 0.04em;
 }
 
 .brand span {
@@ -187,7 +187,7 @@ img {
   color: var(--text-muted);
   font-size: 0.74rem;
   font-weight: 800;
-  letter-spacing: 0.16em;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
 }
 
@@ -196,7 +196,7 @@ img {
   color: var(--text);
   font-size: clamp(4rem, 8vw, 7.2rem);
   font-weight: 800;
-  letter-spacing: -0.095em;
+  letter-spacing: 0.04em;
   line-height: 0.92;
 }
 
@@ -315,7 +315,7 @@ h2 span {
   color: rgba(60, 80, 115, 0.35);
   font-size: 5rem;
   font-weight: 800;
-  letter-spacing: -0.12em;
+  letter-spacing: 0.04em;
 }
 
 .profile-card-info {
@@ -401,7 +401,7 @@ h2 {
   margin-top: 14px;
   color: var(--text);
   font-size: clamp(2.2rem, 4vw, 3.6rem);
-  letter-spacing: -0.07em;
+  letter-spacing: 0.04em;
   line-height: 1.05;
 }
 
@@ -431,7 +431,7 @@ h2 {
 
 .fact-item strong {
   font-size: 1.7rem;
-  letter-spacing: -0.06em;
+  letter-spacing: 0.04em;
 }
 
 .fact-item span {
