@@ -632,6 +632,10 @@ h2 {
   background: var(--soft-blue);
 }
 
+.project-visual-grey {
+  background: #ffffff;
+}
+
 .project-visual-purple {
   background: var(--soft-purple);
 }
@@ -1026,4 +1030,49 @@ h2 {
     align-items: start;
     flex-direction: column;
   }
+}
+
+.project-.project-visual {
+  position: relative;
+  height: 220px;
+  overflow: hidden;
+  background: #eef3ff;
+}
+
+/* 项目图片 */
+.project-image {
+  position: absolute;
+
+  /* 四周留白 */
+  inset: 18px;
+
+  width: calc(100% - 36px);
+  height: calc(100% - 36px);
+
+  /* 完整显示图片，不裁剪 */
+  object-fit: contain;
+
+  display: block;
+  z-index: 1;
+
+  border-radius: 8px;
+  transition: transform 0.4s ease;
+}
+
+/* 项目编号 */
+.project-number {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 3;
+
+  color: #ffffff;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+/* 悬停时轻微放大 */
+.project-card:hover .project-image {
+  transform: scale(1.03);
 }
